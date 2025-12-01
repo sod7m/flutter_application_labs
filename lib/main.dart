@@ -46,7 +46,7 @@ class HomeScreen extends StatelessWidget {
     const LabItem(
       number: 6,
       title: 'Лабораторна робота 6',
-      description: 'Опис лабораторної роботи 6',
+      description: 'Графічний інтерфейс з контейнерами',
       screen: Lab6Screen(),
     ),
     const LabItem(
