@@ -46,25 +46,29 @@ class HomeScreen extends StatelessWidget {
     const LabItem(
       number: 6,
       title: 'Лабораторна робота 6',
-      description: 'Графічний інтерфейс з контейнерами',
+      description:
+          'Контейнери компонування класів та вбудований віджет класу Text',
       screen: Lab6Screen(),
     ),
     const LabItem(
       number: 7,
       title: 'Лабораторна робота 7',
-      description: 'Stack, Positioned, RichText',
+      description:
+          'Використання вбудованих віджетів класів RichText, Stack та Positioned',
       screen: Lab7Screen(),
     ),
     const LabItem(
       number: 8,
       title: 'Лабораторна робота 8',
-      description: 'Власний StatelessWidget з параметрами',
+      description:
+          'Власні віджети, успадковані від класу StatelessWidget та застосовувати стиль material design.',
       screen: Lab8Screen(),
     ),
     const LabItem(
       number: 9,
       title: 'Лабораторна робота 9',
-      description: 'Власний StatefulWidget з параметрами',
+      description:
+          'Навчитися створювати власні віджети, успадковані від класу StatefulWidget.',
       screen: Lab9Screen(),
     ),
     const LabItem(
