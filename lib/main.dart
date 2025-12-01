@@ -52,7 +52,7 @@ class HomeScreen extends StatelessWidget {
     const LabItem(
       number: 7,
       title: 'Лабораторна робота 7',
-      description: 'Опис лабораторної роботи 7',
+      description: 'Stack, Positioned, RichText',
       screen: Lab7Screen(),
     ),
     const LabItem(
