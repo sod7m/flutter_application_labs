@@ -33,7 +33,7 @@ class _Lab10ScreenState extends State<Lab10Screen> {
           'Очолив національно-визвольну війну українського народу проти Речі Посполитої. '
           'Під його керівництвом була створена козацька держава з власним урядом, військом та судовою системою.',
       imageUrl:
-          'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bohdan_Khmelnytsky%2C_Hetman_of_Ukraine_1595-1657.jpg/800px-Bohdan_Khmelnytsky%2C_Hetman_of_Ukraine_1595-1657.jpg',
+          'https://i1.wp.com/www.zettist.com/wp-content/uploads/2023/01/AdobeStock_553613988_Editorial_Use_Only-scaled.jpeg?fit=2560%2C1707&ssl=1',
     ),
     Hetman(
       name: 'Іван Мазепа',
